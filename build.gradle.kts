@@ -9,6 +9,6 @@ repositories {
 
 dependencies {
     implementation("dev.schlaubi:envconf:1.1")
-    implementation("org.slf4j:slf4j-api:1.7.30")
+    implementation("org.slf4j:slf4j-api:1.7.31")
 }
 
